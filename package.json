@@ -1,5 +1,6 @@
 {
   "name": "docker-test",
+  "repository":"https://github.com/NaimishVerma17/docker-test.git",
   "version": "1.0.0",
   "description": "A sample docker test app",
   "main": "app.js",
