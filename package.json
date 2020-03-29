@@ -1,6 +1,6 @@
 {
   "name": "docker-test",
-  "repository":"https://github.com/NaimishVerma17/docker-test.git",
+  "repository": "https://github.com/NaimishVerma17/docker-test.git",
   "version": "1.0.0",
   "description": "A sample docker test app",
   "main": "app.js",
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.6"
   }
 }
